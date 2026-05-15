@@ -11,6 +11,8 @@ from dotenv import load_dotenv
 
 load_dotenv()  # Load environment variables from .env file
 
+# TEST COMMENT FOR ACCOUNT CHANGE
+
 
 # Constants for scalping strategy
 stock_symbol = 'BTCUSD'
